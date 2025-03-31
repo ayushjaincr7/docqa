@@ -2,8 +2,8 @@
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="home.png" width="350">
-    <img src="result.png" width="350">
+    <img src="home.png" width="450">
+    <img src="result.png" width="450">
 </div>
 
 
